@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class TrafficLightController : MonoBehaviour
+public class TrafficLightController2 : MonoBehaviour
 {
     [Header("Light Renderers")]
     [Tooltip("Assign the MeshRenderer or Renderer component for each specific bulb.")]
